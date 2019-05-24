@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_rastrasamachar"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="राष्ट्रिय समाचार" />
+        <item
+            android:id="@+id/navshikcha"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="शिक्षा \ स्वास्थ्य" />
+        <item
+            android:id="@+id/nav_shahitya"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="साहित्य" />
+        <item
+            android:id="@+id/nav_sthaniya"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="स्थानीय समाचार" />
+        <item
+            android:id="@+id/nav_biyapar"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="रअर्थ \ ब्यापार" />
+        <item
+            android:id="@+id/nav_suchana"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="सूचना प्रविधि" />
+
+
+        <item
+            android:id="@+id/nav_rangeen"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="रंगीन दुनियाँ" />
+        <item
+            android:id="@+id/nav_rochak"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="रोचक खबर" />
+        <item
+            android:id="@+id/nav_antrastraya"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="रअन्तर्राष्ट्रिय खबर" />
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="रअन्तर्राष्ट्रिय खबर" />
+    </group>
+
+</menu>

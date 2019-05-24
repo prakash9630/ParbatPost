@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:weightSum="1"
+
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:weightSum="10"
+        android:layout_height="wrap_content">
+
+
+        <automask.nuza.prakash.parbatpost.RoundRectCornerImageView
+            android:id="@+id/recycler_img_travel"
+
+            android:layout_width="0dp"
+            android:layout_weight="3.5"
+
+            android:layout_height="match_parent"
+            android:layout_marginBottom="@dimen/margin_landingpage_buttom"
+            android:layout_marginLeft="@dimen/margin_on_landingpage"
+            android:layout_marginRight="@dimen/margin_on_landingpage"
+            android:layout_marginTop="@dimen/margin_landingpage_buttom"
+            android:scaleType="centerCrop" />
+
+
+        <TextView
+            android:textAllCaps="true"
+            android:id="@+id/name_placedynamic"
+
+            android:layout_width="0dp"
+            android:layout_weight="6.5"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_margin="@dimen/landing_text_margin"
+            android:text="Apartments"
+            android:textColor="#000000"
+            android:textSize="@dimen/textsize_landingpage"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+
+</LinearLayout>
+
+

@@ -1,0 +1,225 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:2:1-49:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\311a0c433df12187ecbe134277494ffb\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\e276e449a3c9e63c953aa79d32807a23\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\8bc1027cf3a5fa15d2ee06508d8dd073\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\70575dfb233ea34769a23669e08aa47c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\9530f2aa2272bd55e9c806fe77a996ee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\f332ac256cdfa105e5683a8de79c47eb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\f0f365715928a6d3c86e896254e0dabd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\b061849d3c76a571979280e1a93eba15\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\108d1939af8ca7f315d30e2ba9aea9c7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\755bd0b58ac90b6d703feadc4c88ff18\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\3da95a53f7d371bb843aace7c15249dd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\c28872cb8e782ae8bc38510200828ed5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\6a42ab2eff2eb492bd17b9665887b532\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\66e2f91c3944159f7b1b9c047b4b8ec6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\b96c18ef180b3428e1cf3a67f2d053cc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\d1aa975b734e1b7016121e1c6192b86c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\826131aa4eea5f152cb1b59ba73617aa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\863afc29e3b347d558af2206f9fa64ce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\ed8e8b68df0cd2a83f62c747e5073ec6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\d25c76c351e719aec3e5c00e5bd9d3f6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\86f0f6ef834080cbca120421420ddb63\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\8bb21eb1657380e11002974e9da1157b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\cdfdcbd1e144077c9e4b464045a71aa9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\8b4445805adb5fa6731a0594f2c9c08c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\388006841565dc76065d74ec724f10ff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\03d3c482345f4193fd5b6ed68d4de4c0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\4941b6ed39038b6311073e9318a4b6a4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\3393490f0b6d4f8eefd5562355759e9d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\71dd6fe3127d38c538fb07e44550794d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\c62fca9ed9b270e4238dbff07e939ad3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\809f2fcda6fd444cadf528f7ad9d1e42\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\b83ef45636cd2f4bbe7309a5d832d60a\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:2:1-49:12
+	package
+		ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml
+		ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:2:1-49:12
+		INJECTED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml
+		ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:2:1-49:12
+		INJECTED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:4:5-78
+	android:name
+		ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:4:22-76
+uses-permission#android.permission.INTERNET
+ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:7:22-77
+application
+ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:9:5-47:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\311a0c433df12187ecbe134277494ffb\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\311a0c433df12187ecbe134277494ffb\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\8bc1027cf3a5fa15d2ee06508d8dd073\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\8bc1027cf3a5fa15d2ee06508d8dd073\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\70575dfb233ea34769a23669e08aa47c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\70575dfb233ea34769a23669e08aa47c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\d25c76c351e719aec3e5c00e5bd9d3f6\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\d25c76c351e719aec3e5c00e5bd9d3f6\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\86f0f6ef834080cbca120421420ddb63\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\86f0f6ef834080cbca120421420ddb63\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\d25c76c351e719aec3e5c00e5bd9d3f6\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:16:9-40
+	android:usesCleartextTraffic
+		ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:15:9-44
+activity#automask.nuza.prakash.parbatpost.Activity.MainActivity
+ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:label
+		ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:19:13-45
+	android:theme
+		ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:20:13-56
+	android:name
+		ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:18:13-50
+activity#automask.nuza.prakash.parbatpost.Activity.Businessnews
+ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:24:9-29:20
+	android:theme
+		ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:24:57-100
+	android:name
+		ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:24:19-56
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:26:13-111
+	android:value
+		ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:26:71-109
+	android:name
+		ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:26:24-70
+activity#automask.nuza.prakash.parbatpost.Activity.News_deatil
+ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:30:9-33:20
+	android:theme
+		ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:30:56-99
+	android:name
+		ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:30:19-55
+activity#automask.nuza.prakash.parbatpost.Activity.Splash
+ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:34:9-41:20
+	android:theme
+		ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:34:51-94
+	android:name
+		ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:34:19-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:39:27-74
+activity#automask.nuza.prakash.parbatpost.Activity.Internationalnews
+ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:42:9-46:20
+	android:theme
+		ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:42:62-105
+	android:name
+		ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml:42:19-61
+uses-sdk
+INJECTED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml
+INJECTED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\311a0c433df12187ecbe134277494ffb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\311a0c433df12187ecbe134277494ffb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\e276e449a3c9e63c953aa79d32807a23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\e276e449a3c9e63c953aa79d32807a23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\8bc1027cf3a5fa15d2ee06508d8dd073\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\8bc1027cf3a5fa15d2ee06508d8dd073\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\70575dfb233ea34769a23669e08aa47c\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\70575dfb233ea34769a23669e08aa47c\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\9530f2aa2272bd55e9c806fe77a996ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\9530f2aa2272bd55e9c806fe77a996ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\f332ac256cdfa105e5683a8de79c47eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\f332ac256cdfa105e5683a8de79c47eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\f0f365715928a6d3c86e896254e0dabd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\f0f365715928a6d3c86e896254e0dabd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\b061849d3c76a571979280e1a93eba15\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\b061849d3c76a571979280e1a93eba15\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\108d1939af8ca7f315d30e2ba9aea9c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\108d1939af8ca7f315d30e2ba9aea9c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\755bd0b58ac90b6d703feadc4c88ff18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\755bd0b58ac90b6d703feadc4c88ff18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\3da95a53f7d371bb843aace7c15249dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\3da95a53f7d371bb843aace7c15249dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\c28872cb8e782ae8bc38510200828ed5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\c28872cb8e782ae8bc38510200828ed5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\6a42ab2eff2eb492bd17b9665887b532\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\6a42ab2eff2eb492bd17b9665887b532\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\66e2f91c3944159f7b1b9c047b4b8ec6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\66e2f91c3944159f7b1b9c047b4b8ec6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\b96c18ef180b3428e1cf3a67f2d053cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\b96c18ef180b3428e1cf3a67f2d053cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\d1aa975b734e1b7016121e1c6192b86c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\d1aa975b734e1b7016121e1c6192b86c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\826131aa4eea5f152cb1b59ba73617aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\826131aa4eea5f152cb1b59ba73617aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\863afc29e3b347d558af2206f9fa64ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\863afc29e3b347d558af2206f9fa64ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\ed8e8b68df0cd2a83f62c747e5073ec6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\ed8e8b68df0cd2a83f62c747e5073ec6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\d25c76c351e719aec3e5c00e5bd9d3f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\d25c76c351e719aec3e5c00e5bd9d3f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\86f0f6ef834080cbca120421420ddb63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\86f0f6ef834080cbca120421420ddb63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\8bb21eb1657380e11002974e9da1157b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\8bb21eb1657380e11002974e9da1157b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\cdfdcbd1e144077c9e4b464045a71aa9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\cdfdcbd1e144077c9e4b464045a71aa9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\8b4445805adb5fa6731a0594f2c9c08c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\8b4445805adb5fa6731a0594f2c9c08c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\388006841565dc76065d74ec724f10ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\388006841565dc76065d74ec724f10ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\03d3c482345f4193fd5b6ed68d4de4c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\03d3c482345f4193fd5b6ed68d4de4c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\4941b6ed39038b6311073e9318a4b6a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\4941b6ed39038b6311073e9318a4b6a4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\3393490f0b6d4f8eefd5562355759e9d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\3393490f0b6d4f8eefd5562355759e9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\71dd6fe3127d38c538fb07e44550794d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\71dd6fe3127d38c538fb07e44550794d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\c62fca9ed9b270e4238dbff07e939ad3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\c62fca9ed9b270e4238dbff07e939ad3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\809f2fcda6fd444cadf528f7ad9d1e42\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\809f2fcda6fd444cadf528f7ad9d1e42\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\b83ef45636cd2f4bbe7309a5d832d60a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\prakash\.gradle\caches\transforms-2\files-2.1\b83ef45636cd2f4bbe7309a5d832d60a\AndroidManifest.xml:20:5-44
+INJECTED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml
+INJECTED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml
+		ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml
+		ADDED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android project\Andriod studio set up\ParbatPost\app\src\main\AndroidManifest.xml
